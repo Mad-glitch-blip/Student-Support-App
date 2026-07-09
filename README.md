@@ -6,7 +6,6 @@
 
 ## 📸 Screenshots
 
-> *(Replace these with screenshots of your app once they are available.)*
 
 ### Dashboard
  <img width="1781" height="975" alt="Screenshot 2026-07-09 111331" src="https://github.com/user-attachments/assets/e2925b63-d243-4081-af9f-9ff4fb7599ef" />
@@ -217,6 +216,12 @@ MindTrack does **not** use cross-site advertising trackers.
 
 ---
 
+## 🌐 Live Demo
+
+Coming Soon — deployment currently in progress.
+
+---
+
 # 🗺 Roadmap
 
 Planned improvements include:
@@ -268,11 +273,11 @@ If you'd like to contribute:
 
 # 📖 Why I Built This
 
-I built MindTrack to create a single platform that helps students stay organized, study more effectively, and take care of their well-being.
+Like many students, I found myself switching between multiple apps just to stay organized. One app managed assignments, another tracked my calendar, another helped me study, and none of them felt truly connected.
 
-Rather than focusing on productivity for productivity's sake, MindTrack aims to encourage healthier study habits, thoughtful learning, and balanced personal growth.
+I wanted to build a single platform that could bring those experiences together while also supporting students' well-being. Rather than encouraging constant productivity or unhealthy competition, I wanted MindTrack to feel like a calm, supportive companion that helps students learn, stay organized, and reflect on their progress.
 
-This project is also part of my journey in learning full-stack software development and building applications that solve real problems.
+Building MindTrack has also been a major part of my journey into full-stack software development. It has challenged me to learn modern web technologies, design better user experiences, and think about how software can solve real problems in meaningful ways.
 
 ---
 
@@ -291,3 +296,9 @@ Feedback is always welcome.
 If you enjoy this project, consider giving it a ⭐ on GitHub.
 
 It helps others discover the project and motivates continued development.
+
+---
+
+Made with ❤️ by Vars
+
+MindTrack is continuously evolving as I learn new technologies and improve the platform.
