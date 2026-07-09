@@ -1,94 +1,122 @@
-# MindTrack
+# 🧠 MindTrack
 
-A student-focused productivity, wellness, and learning platform designed to help students stay organized, reflect on their well-being, and learn more effectively.
-
-MindTrack combines task management, mood tracking, study tools, adaptive learning, and an AI-powered assistant called Matrix into a single supportive environment.
-
-Unlike many productivity apps, MindTrack is designed to avoid excessive gamification and focuses on meaningful progress, healthy study habits, and personal growth.
+> An AI-powered student productivity, wellness, and learning platform designed to help students stay organized, reflect on their well-being, and learn more effectively.
 
 ---
 
-# Features
+## 📸 Screenshots
 
-## Matrix AI Assistant
+> *(Replace these with screenshots of your app once they are available.)*
 
-Matrix is an adaptive student assistant that can help with:
+### Dashboard
+![Dashboard](images/dashboard.png)
+
+### Matrix AI Assistant
+![Matrix](images/matrix.png)
+
+### Study Tools
+![Study Tools](images/study-tools.png)
+
+### Mood Tracker
+![Mood Tracker](images/mood.png)
+
+### Calendar
+![Calendar](images/calendar.png)
+
+---
+
+# ✨ Why MindTrack?
+
+Students often have to switch between several different apps just to manage school.
+
+One app for assignments.
+
+Another for calendars.
+
+Another for studying.
+
+Another for notes.
+
+Another for mental wellness.
+
+MindTrack brings these experiences together into one supportive platform focused on learning, organization, and student well-being.
+
+Instead of encouraging unhealthy productivity through streaks and pressure, MindTrack is designed to support consistent learning, thoughtful reflection, and personal growth.
+
+---
+
+# 🚀 Features
+
+- 🤖 Matrix AI Assistant
+- 😊 Daily Mood Tracking
+- 📅 Calendar & Events
+- ✅ Task Manager
+- 📚 Adaptive Study Tools
+- 🧠 Test Yourself (Adaptive Quiz Mode)
+- ⏳ Focus Sessions
+- 💡 Student Insights
+- 🌙 Dark & Light Mode
+- 🔒 Secure Authentication
+- ☁️ Cloud Database
+
+---
+
+# 🤖 Matrix AI Assistant
+
+Matrix is an adaptive AI assistant built specifically for students.
+
+It can help with:
 
 - Study support
-- Planning and organization
-- Task breakdowns
+- Planning assignments
+- Breaking down difficult tasks
 - Academic questions
-- Reflection and motivation
-- Subject review sessions
+- Organization
+- Reflection
+- Motivation
+- Adaptive tutoring
 
-Matrix adapts its responses based on the student's needs and learning goals.
+Matrix adjusts its responses depending on the student's goals and learning needs.
 
 ---
 
-## Mood Tracking
+# 😊 Mood Tracking
 
-Students can log how they are feeling throughout the day.
+Students can log how they feel throughout the day.
 
 Features include:
 
 - Daily mood check-ins
 - Mood history
 - Mood insights
-- Supportive messages after logging emotions
+- Supportive motivational messages
 - Dashboard mood management
 
-The goal is self-awareness, not judgment.
+The purpose is self-awareness, not judgment.
 
 ---
 
-## Task Management
+# 📚 Study Tools
 
-Stay organized with:
-
-- Task creation
-- Due dates
-- Priority tracking
-- Progress monitoring
-- Weekly productivity summaries
-
----
-
-## Calendar Integration
-
-Manage:
-
-- Assignments
-- Tests
-- Projects
-- Events
-- Personal reminders
-
-All within a single calendar interface.
-
----
-
-### Study Tools
-
-MindTrack includes focused learning tools such as:
+MindTrack provides several learning tools designed to encourage understanding rather than memorization.
 
 ## Focus Sessions
 
 - Preset study timers
 - Custom focus durations
 - Custom break durations
-- Session tracking
 
-### Test Yourself
+## Test Yourself
 
-An adaptive learning system that:
+An adaptive study mode that:
 
 - Starts with easier questions
-- Gradually increases difficulty
-- Provides hints when needed
+- Increases difficulty gradually
+- Gives hints before answers
 - Encourages critical thinking
-- Helps students learn concepts rather than memorize answers
+- Helps students understand concepts
 
-Supported subjects may include:
+Subjects may include:
 
 - Mathematics
 - Science
@@ -99,49 +127,52 @@ Supported subjects may include:
 
 ---
 
-### Student Insights
+# 📈 Student Insights
 
-A rotating dashboard section that provides:
+MindTrack provides rotating suggestions such as:
 
-- Study suggestions
+- Study techniques
+- Healthy habits
+- College preparation
+- Scholarship ideas
+- Extracurricular suggestions
+- Time management
 - Wellness tips
-- College preparation ideas
-- Extracurricular opportunities
-- Learning strategies
 
-These suggestions are optional and designed to support students without being intrusive.
+Suggestions are supportive rather than demanding.
 
 ---
 
-## Design Philosophy
+# 🎯 Design Philosophy
 
-MindTrack was built around several core principles:
+MindTrack is built around several principles.
 
 ### Support Over Pressure
 
-Students should feel supported, not judged.
+Students should feel supported instead of stressed.
 
 ### Learning Over Memorization
 
-The goal is understanding concepts, not simply getting answers.
+The goal is understanding concepts rather than simply getting correct answers.
 
 ### Reflection Over Streaks
 
-MindTrack avoids addictive mechanics such as:
+MindTrack intentionally avoids:
 
 - Streak systems
-- Productivity pressure
 - Competitive rankings
+- Reward addiction
+- Productivity pressure
 
 ### Simplicity Over Complexity
 
-Every feature should have a clear purpose and help students in a meaningful way.
+Every feature should have a meaningful purpose.
 
 ---
 
-## Technology Stack
+# 🛠 Technology Stack
 
-### Frontend
+## Frontend
 
 - React
 - Vite
@@ -149,33 +180,32 @@ Every feature should have a clear purpose and help students in a meaningful way.
 - Tailwind CSS
 - Framer Motion
 
-### Backend
+## Backend
 
 - Node.js
 - Express
 
-### Database
+## Database
 
 - PostgreSQL
 - Drizzle ORM
 
-### Authentication
+## Authentication
 
-- Clerk Authentication
-- Email & Password
+- Clerk
 - Google Sign-In
+- Email & Password
 
-### AI
+## AI
 
 - Matrix AI Assistant
 - Adaptive tutoring workflows
-- Personalized learning support
 
 ---
 
-## Privacy
+# 🔒 Privacy
 
-MindTrack values user privacy.
+MindTrack values student privacy.
 
 The application uses essential cookies only for:
 
@@ -183,47 +213,81 @@ The application uses essential cookies only for:
 - User preferences
 - Core functionality
 
-MindTrack does not use cross-site tracking for advertising purposes.
+MindTrack does **not** use cross-site advertising trackers.
 
 ---
 
-## Future Goals
+# 🗺 Roadmap
 
 Planned improvements include:
 
 - Better adaptive tutoring
-- Subject-specific learning paths
-- Advanced academic analytics
-- Resource recommendations
-- Mobile application support
-- Enhanced accessibility features
+- More subject-specific learning paths
+- Improved analytics
+- Mobile application
+- Better accessibility
+- More educational resources
+- Improved dashboard insights
 
 ---
 
-## Why I Built This
+# 💻 Installation
 
-I built MindTrack because students often have to use multiple apps for:
+Clone the repository
 
-- Tasks
-- Calendars
-- Studying
-- Reflection
-- Academic support
+```bash
+git clone https://github.com/YourUsername/MindTrack.git
+```
 
-I wanted to create a single platform that brings these tools together while maintaining a supportive and student-centered experience.
+Install dependencies
+
+```bash
+npm install
+```
+
+Start the development server
+
+```bash
+npm run dev
+```
 
 ---
 
-## Status
+# 🤝 Contributing
+
+Contributions, bug reports, feature requests, and suggestions are welcome.
+
+If you'd like to contribute:
+
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Submit a Pull Request
+
+---
+
+# 📖 Why I Built This
+
+I built MindTrack to create a single platform that helps students stay organized, study more effectively, and take care of their well-being.
+
+Rather than focusing on productivity for productivity's sake, MindTrack aims to encourage healthier study habits, thoughtful learning, and balanced personal growth.
+
+This project is also part of my journey in learning full-stack software development and building applications that solve real problems.
+
+---
+
+# 📌 Project Status
 
 🚧 Active Development
 
 MindTrack is continuously being improved with new features, usability enhancements, and learning tools.
 
-Feedback and suggestions are always welcome.
+Feedback is always welcome.
 
 ---
 
-## License
+# ⭐ Support
 
-This project is licensed under the MIT License.
+If you enjoy this project, consider giving it a ⭐ on GitHub.
+
+It helps others discover the project and motivates continued development.
