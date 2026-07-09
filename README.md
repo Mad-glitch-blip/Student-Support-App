@@ -9,22 +9,19 @@
 > *(Replace these with screenshots of your app once they are available.)*
 
 ### Dashboard
-![Dashboard] <img width="1781" height="975" alt="Screenshot 2026-07-09 111331" src="https://github.com/user-attachments/assets/e2925b63-d243-4081-af9f-9ff4fb7599ef" />
-
-
-### Matrix AI Assistant
-![Matrix] <img width="1918" height="972" alt="Screenshot 2026-07-09 111941" src="https://github.com/user-attachments/assets/f32d400c-aa21-48af-9b9e-436d241dec1e" />
-
-
-### Study Tools
-![Study Tools] <img width="1918" height="910" alt="Screenshot 2026-07-09 111917" src="https://github.com/user-attachments/assets/1204a82c-cb29-45b0-8a33-716e490dc67a" />
-
+ <img width="1781" height="975" alt="Screenshot 2026-07-09 111331" src="https://github.com/user-attachments/assets/e2925b63-d243-4081-af9f-9ff4fb7599ef" />
 
 ### Tasks
-![Tasks] <img width="1906" height="982" alt="Screenshot 2026-07-09 111802" src="https://github.com/user-attachments/assets/7c6bc078-ec2e-4e26-a86a-9c74d425eb68" />
+ <img width="1906" height="982" alt="Screenshot 2026-07-09 111802" src="https://github.com/user-attachments/assets/7c6bc078-ec2e-4e26-a86a-9c74d425eb68" />
 
 ### Calendar
 ![Calendar] 
+
+### Study Tools
+ <img width="1918" height="910" alt="Screenshot 2026-07-09 111917" src="https://github.com/user-attachments/assets/1204a82c-cb29-45b0-8a33-716e490dc67a" />
+
+### Matrix AI Assistant
+<img width="1918" height="972" alt="Screenshot 2026-07-09 111941" src="https://github.com/user-attachments/assets/f32d400c-aa21-48af-9b9e-436d241dec1e" />
 
 ---
 
