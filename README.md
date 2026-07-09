@@ -241,7 +241,7 @@ Planned improvements include:
 Clone the repository
 
 ```bash
-git clone https://github.com/YourUsername/MindTrack.git
+git clone https://github.com/Mad-glitch-blip/MindTrack.git
 ```
 
 Install dependencies
